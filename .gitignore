@@ -1,2 +1,5 @@
 /Dataset
 /Resource
+/Contest_Journey/logs
+/Contest_Journey/mlruns
+/Contest_Journey/results
