@@ -5,3 +5,6 @@
 /Contest_Journey/mlruns
 /Contest_Journey/results
 Poem_Generation_Project
+/HuggingFace/next_sen_predict/mlruns
+/HuggingFace/next_sen_predict/poem 
+/HuggingFace/next_sen_predict/poem_gpt2
