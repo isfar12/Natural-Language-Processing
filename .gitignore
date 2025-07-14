@@ -12,4 +12,6 @@ Poem_Generation_Project
 HuggingFace/fine_tune_basic/mymodel/
 HuggingFace/multiple_input_sentence/mlruns/
 HuggingFace/multiple_input_sentence/result/
-HuggingFace/multiple_input_sentence/model/
+HuggingFace/multiple_input_sentence/model_directory/
+HuggingFace/ner_pos_tagging/mlruns/
+HuggingFace/ner_pos_tagging/ner_tags/
