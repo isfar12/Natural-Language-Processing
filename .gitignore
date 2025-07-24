@@ -15,3 +15,6 @@ HuggingFace/multiple_input_sentence/result/
 HuggingFace/multiple_input_sentence/model_directory/
 HuggingFace/ner_pos_tagging/mlruns/
 HuggingFace/ner_pos_tagging/ner_tags/
+HuggingFace/machine_translate/opus_mt_en_es
+HuggingFace/machine_translate/opus_mt_en_es_final
+HuggingFace/machine_translate/mlruns
