@@ -18,3 +18,5 @@ HuggingFace/ner_pos_tagging/ner_tags/
 HuggingFace/machine_translate/opus_mt_en_es
 HuggingFace/machine_translate/opus_mt_en_es_final
 HuggingFace/machine_translate/mlruns
+HuggingFace/question_answering/distilbert-finetuned-squad
+HuggingFace/question_answering/mlruns
